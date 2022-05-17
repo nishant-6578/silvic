@@ -64,7 +64,7 @@
                <div class="main-box clearfix">
                     <!--Logo Box-->
                     <div class="logo-box">
-                        <div class="logo"><a href="index.php"><img src="images/Silvics1.png" alt=""></a></div>
+                        <div class="logo"><a href="index.php"><img src="images/silvics1.png" alt=""></a></div>
                     </div>
 
                     <!--Nav Outer-->
